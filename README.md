@@ -9,16 +9,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourmostak2/movie-vault-site/releases/latest"><img src="https://img.shields.io/github/v/release/yourmostak2/movie-vault-site?style=for-the-badge&label=latest" alt="Latest release"></a>
-  <a href="https://github.com/yourmostak2/movie-vault-site/releases"><img src="https://img.shields.io/github/downloads/yourmostak2/movie-vault-site/total?style=for-the-badge&label=downloads" alt="Downloads"></a>
+  <a href="https://github.com/yourmostak2/movievaultapp/releases/latest"><img src="https://img.shields.io/github/v/release/yourmostak2/movievaultapp?style=for-the-badge&label=latest" alt="Latest release"></a>
+  <a href="https://github.com/yourmostak2/movievaultapp/releases"><img src="https://img.shields.io/github/downloads/yourmostak2/movievaultapp/total?style=for-the-badge&label=downloads" alt="Downloads"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourmostak2/movie-vault-site/releases/latest/download/MovieVault.apk"><b>⬇️ Download the APK</b></a>
+  <a href="https://github.com/yourmostak2/movievaultapp/releases/latest/download/MovieVault.apk"><b>⬇️ Download the APK</b></a>
   &nbsp;·&nbsp;
-  <a href="https://yourmostak2.github.io/movie-vault-site/">Website</a>
+  <a href="https://movievaultapp.blogspot.com/?m=0">Website</a>
   &nbsp;·&nbsp;
-  <a href="https://yourmostak2.github.io/movie-vault-site/privacy.html">Privacy Policy</a>
+  <a href="PRIVACY.md">Privacy Policy</a>
   &nbsp;·&nbsp;
   <a href="CHANGELOG.md">Changelog</a>
 </p>
@@ -63,7 +63,7 @@ It covers **Hollywood, Bollywood, Tollywood and Dhallywood**, and works in **9 l
 ## Download
 
 > **First time here?**
-> 1. Open the [latest release](https://github.com/yourmostak2/movie-vault-site/releases/latest) and download **MovieVault.apk**.
+> 1. Open the [latest release](https://github.com/yourmostak2/movievaultapp/releases/latest) and download **MovieVault.apk**.
 > 2. Open the file. If your phone asks, allow installs from your browser or file manager (**Settings → Install unknown apps**).
 > 3. Tap **Install**, open Movie Vault, and register or sign in.
 
@@ -90,7 +90,7 @@ Yes. It is free, has no ads and no in-app purchases.
 You create a simple account to open the app. The account is also what keeps your lists safe if you change phones.
 
 ### Q: Where is my data stored?
-Your lists are stored on your phone and, if you are signed in, in your own account. Google Drive backups live in a hidden folder in your Drive that only this app can open. Nothing is sold or used for ads. Read the [Privacy Policy](https://yourmostak2.github.io/movie-vault-site/privacy.html) for details.
+Your lists are stored on your phone and, if you are signed in, in your own account. Google Drive backups live in a hidden folder in your Drive that only this app can open. Nothing is sold or used for ads. Read the [Privacy Policy](PRIVACY.md) for details.
 
 ### Q: Google says "Google hasn't verified this app". Is it safe?
 Movie Vault only asks for access to its own hidden app folder and your email address. Google shows the warning for every new app that has not completed full review. Tap **Advanced → Go to Movie Vault** to continue.
@@ -108,7 +108,7 @@ Open **Settings → Check for updates**. If a newer version exists you will see 
 Yes. **Profile → Delete account** removes your account and saved lists. To remove a Drive backup, sign out of Google in the app and remove Movie Vault from your Google Account's third-party access page.
 
 ### Q: I found a bug or have an idea.
-Please [open an issue](https://github.com/yourmostak2/movie-vault-site/issues). Tell us your phone model and what happened.
+Please [open an issue](https://github.com/yourmostak2/movievaultapp/issues). Tell us your phone model and what happened.
 
 ## Contributing and license
 
