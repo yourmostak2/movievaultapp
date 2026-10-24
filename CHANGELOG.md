@@ -4,6 +4,34 @@ Movie Vault is a free Android app for tracking the movies and web series you wan
 
 ---
 
+## v1.5: Liquid Glass redesign
+**v1.5.0 to v1.5.5**
+
+### New
+- **Liquid Glass design.** Frosted, see-through glass on cards, lists, buttons, the top bar and the bottom navigation, with soft light edges and colourful lights moving behind it. Works in dark and light mode.
+- **Glass effects setting.** Settings now has *Full glass* and *Lite*. Pick Lite if your phone feels slow.
+- **Floating glass top bar and bottom navigation.** The active tab is a bright gradient pill that bounces when you switch.
+- **Alive everywhere.** Shimmering titles, posters that float in one by one with a gentle light sweep, pulsing "In Theaters" tags and spring animations on every tap.
+- **Redesigned movie page.** Year, runtime, age rating and genres are glass tags. The IMDb rating sits in a golden badge with a twinkling star.
+- **Pill action buttons.** Add to watch, Watched and Love it are glass pills that glow in their own colour when selected, and the heart beats when you love a title.
+- **Where to watch button.** The streaming list now opens and closes from a single button, so the page stays clean.
+- **Poster background.** Each movie page is softly lit by its own poster, blurred behind the content.
+- **New login and register page** in the same glass style as the rest of the app, with a larger logo, round fields and a glowing button.
+- **True black dark mode (AMOLED).** Dark mode now uses pure black, so the glass and colours stand out more and your battery thanks you on OLED screens.
+
+### Improved
+- The top bar and tabs on the home page were rebuilt so nothing gets cut off.
+- The bottom navigation is clearer: readable labels and a vivid active tab.
+- Smoother page transitions and press animations throughout.
+
+---
+
+## v1.4.3
+**Update checker fix**
+- Fixed "Could not check for updates" on some phone networks. The app now falls back to a second route automatically.
+
+---
+
 ## v1.4.2
 **Small update**
 - Version bump used to test the in-app update flow end to end.
