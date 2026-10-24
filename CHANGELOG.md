@@ -4,6 +4,13 @@ Movie Vault is a free Android app for tracking the movies and web series you wan
 
 ---
 
+## v1.5.6
+**Small polish update**
+- Fixed a visible line in the background on short pages such as Check for updates. The glass background now fills the whole screen.
+- Also used to test that in-app updates show up correctly.
+
+---
+
 ## v1.5: Liquid Glass redesign
 **v1.5.0 to v1.5.5**
 
