@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://github.com/yourmostak2/movievaultapp/releases/tag/v1.4.2]"><b>⬇️ Download the APK</b></a>
+  <a href="https://github.com/yourmostak2/movievaultapp/releases/tag/v1.4.2"><b>⬇️ Download the APK</b></a>
   &nbsp;·&nbsp;
   <a href="https://yourmostak2.github.io/movie-vault-site/">Website</a>
   &nbsp;·&nbsp;
