@@ -4,6 +4,18 @@ Movie Vault is a free Android app for tracking the movies and web series you wan
 
 ---
 
+## v1.5.7
+**Readable update notes and chip fix**
+
+### Improved
+- **Release notes now look clean inside the app.** On the Check for updates page, headings, bullet lists, bold text and links are shown properly instead of raw symbols. Long notes are no longer cut short.
+
+### Fixed
+- **Selected category chips stay white in dark mode.** Tapping a category such as In Theaters or New on OTT no longer turns it black.
+- Long links no longer push the Download button outside its card.
+
+---
+
 ## v1.5.6
 **Small polish update**
 - Fixed a visible line in the background on short pages such as Check for updates. The glass background now fills the whole screen.
