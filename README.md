@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourmostak2/movievaultapp/releases"><b>⬇️ Download the APK</b></a>
+  <a href="https://github.com/yourmostak2/movie-vault-site/releases/latest/download/MovieVault.apk"><b>⬇️ Download the APK</b></a>
   &nbsp;·&nbsp;
   <a href="https://yourmostak2.github.io/movie-vault-site/">Website</a>
   &nbsp;·&nbsp;
@@ -36,12 +36,13 @@ It covers **Hollywood, Bollywood, Tollywood and Dhallywood**, and works in **9 l
 ### Your lists
 - **Watchlist, Watched and Favorites** for movies and web series
 - **Season and episode tracking.** See exactly how many episodes you have watched
-- **Quick actions** from any card or details page
+- **Glass pill buttons** on every movie page: Add to watch, Watched and Love it
+- **Where to watch** opens with one tap, based on your country
 
 ### Discover
 - **Home page** with today's charts, new releases and a Top 10
 - **In Theaters** and **New on OTT** categories, with the newest titles first
-- **Details pages** with poster, rating, director, cast, genres and where to watch
+- **Details pages** with a blurred poster background, rating, director, cast, genres and where to watch
 - **Cast pages** to browse a person's other work
 - **Search** across the built-in catalog and the whole TMDB database
 
@@ -52,7 +53,9 @@ It covers **Hollywood, Bollywood, Tollywood and Dhallywood**, and works in **9 l
 - **Delete my account** erases your account and your saved data
 
 ### Made for everyday use
-- **Light, Dark or System** appearance
+- **Liquid Glass design** with frosted glass, soft lights and smooth animations
+- **Light, Dark (true black AMOLED) or System** appearance
+- **Full or Lite glass** effects, so it runs smoothly on every phone
 - **9 languages:** English, Bengali, Hindi, Tamil, Telugu, Urdu, Arabic, Spanish and French
 - **Built-in update checker** with release notes
 - **No ads.** No tracking for advertising
@@ -95,6 +98,9 @@ Movie Vault only asks for access to its own hidden app folder and your email add
 ### Q: The app will not install. It says "package conflicts".
 You have an older test build with a different signature. Uninstall it once, then install the latest version. Your lists come back when you sign in or restore a backup. After that, every update installs over your current app.
 
+### Q: Google Play Protect says "App scan recommended".
+This is a normal message for new apps that Google has not seen before. Tap **Scan app** (or **Install without scanning**) and continue. Movie Vault contains no ads or trackers and only asks for the permissions it needs.
+
 ### Q: How do I update?
 Open **Settings → Check for updates**. If a newer version exists you will see the release notes and a Download button.
 
@@ -103,6 +109,10 @@ Yes. **Profile → Delete account** removes your account and saved lists. To rem
 
 ### Q: I found a bug or have an idea.
 Please [open an issue](https://github.com/yourmostak2/movie-vault-site/issues). Tell us your phone model and what happened.
+
+## Contributing and license
+
+Bug reports, ideas and translations are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) to get started. Movie Vault is released under the [MIT License](LICENSE).
 
 ## Credits
 
