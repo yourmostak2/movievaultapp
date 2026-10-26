@@ -4,6 +4,37 @@ Movie Vault is a free Android app for tracking the movies and web series you wan
 
 ---
 
+## v1.7.0: Material redesign
+**Includes everything from v1.6.0 and v1.6.1 (those versions were never released on their own)**
+
+### New
+- **New Material look.** Warm cream with a gold accent in light mode and true black in dark mode. Cards have soft shadows and rounded corners, buttons are round, and chips and the bottom navigation use gold-tinted pills. The blur and glass effects are gone, so the app is cleaner and lighter on your battery.
+- **Follows your phone's Light or Dark mode.** New installs start in *System* mode, and the app switches by itself when you change your phone's mode. You can still pick *Light*, *Dark* or *System* in Settings → Appearance.
+- **Redesigned movie page.** A full-width poster at the top, then the title, year, runtime, genres and rating. Four tiles sit below it: *Watchlist*, *Watched*, *Favorite* and *Share*, each lighting up in its own colour when selected. The page continues with *Where to watch*, an expandable *Synopsis*, *Trailer*, *Movie information*, *Director*, *Cast* and *More like this*, each in its own card.
+- **Share button.** Send a title to friends from the movie page.
+- **New login and register page.** Round icons inside each field, clear labels and a large gold button.
+- **New Settings and Profile pages.** Settings is grouped into cards (Appearance, Preferences, Online, Account, Google Drive Backup, About). Profile shows your photo, your Watched, Watchlist and Favorites counts, your account details and your library.
+- **True full screen.** The app now draws behind the status bar and the Android navigation bar, which match the app's colours in both modes. Movie posters reach the very top of the screen.
+- **Country follows your network.** The country used for streaming and new-release lists is now detected from your network automatically. There is no country box to fill in.
+
+### Improved
+- **Home rows scroll edge to edge.** Posters slide in and out at the screen edge instead of being cut off at the page margin, and scrolling is smoother.
+- **Backup with words moved.** It now lives under *Profile → More backup options*, so Settings stays simple. Google Drive backup is unchanged.
+- The bottom navigation shows the active tab as a gold pill with its name.
+- Page titles and the space between the top bar and the content were adjusted so nothing overlaps on any phone size.
+
+### Removed
+- The *Glass effects* setting, because the glass look is no longer used.
+- The country text box in Settings.
+
+### Fixed
+- The top bar no longer shows a box or border around it.
+- The active tab in the bottom navigation is readable in light mode.
+- Selected buttons on the movie page no longer leave a stray coloured shape behind them, and the Watched tick is visible when selected.
+- The profile background now fills the whole top of the screen.
+
+---
+
 ## v1.5.7
 **Readable update notes and chip fix**
 
