@@ -4,6 +4,24 @@ Movie Vault is a free Android app for tracking the movies and web series you wan
 
 ---
 
+## v1.7.1: New logo and fresher releases
+**A new logo, a rebuilt About page, name editing in Profile, and a fix that keeps the home lists up to date**
+
+### New
+- **New Movie Vault logo.** It replaces the old logo everywhere: the app icon on your home screen, the login and welcome screens, the home header, the About page and the website.
+- **Change your name.** In *Profile → Account information*, tap the pencil next to your name, type a new name and press *Save*. The new name shows in your greeting, Profile and Settings. Your login username stays the same, and your name is saved to your online account when you have one.
+- **Telegram channel.** *About → Community & Info* now links to the Movie Vault Telegram channel, so you can follow update news.
+
+### Improved
+- **About page redesigned** in the Material look, with the app card, developer card, community links and credits.
+- **Home lists stay fresh every day.** *In Theaters*, *New on OTT*, *New releases* and the Bollywood, Tollywood and Dhallywood rows now refresh every 4 hours, and again when a new day starts. Pull in the latest with *Settings → Check for new releases now*.
+
+### Fixed
+- **New movies were not appearing.** The app stopped adding new releases after it had collected about 900 titles, so the home lists kept showing old movies. Old titles that are no longer listed are now cleared automatically, so new releases always make room. Anything in your Watchlist, Watched or Favorites, and any series you are tracking, is never removed.
+- **Home lists no longer go empty** when your connection drops in the middle of a refresh. The previous list stays until fresh data arrives.
+
+---
+
 ## v1.7.0: Material redesign
 **Includes everything from v1.6.0 and v1.6.1 (those versions were never released on their own)**
 
