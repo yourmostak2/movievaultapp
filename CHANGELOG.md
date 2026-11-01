@@ -4,6 +4,26 @@ Movie Vault is a free Android app for tracking the movies and web series you wan
 
 ---
 
+## v1.7.2: India-first Home, OTT platform lists and coloured buttons
+**Home is rebuilt for Indian viewers, with a search bar, every streaming platform in its own list, and clearer Watch, Watched and Loved buttons**
+
+### New
+- **Search bar on Home.** Search movies and series right from the top of the Home page.
+- **New on OTT, by platform.** Netflix, Prime Video, JioHotstar, Zee5, Sony LIV and more each get their own list, with a platform tag on every poster and chips to filter by platform.
+- **In Theaters feed.** Movies now playing in your country, refreshed every day.
+- **Coloured buttons.** *Watchlist* is blue, *Watched* is green and *Loved* is red. When a button is off it stays neutral.
+
+### Improved
+- **India first.** Home and Discover now lead with Indian cinema: Bollywood, Tollywood, Kollywood, Mollywood, Sandalwood and regional films. International titles are still there.
+- **New Home order.** In Theaters, New on OTT, Trending, Bollywood, Hollywood, Dhallywood, Indian Cinema (all industries), World Top Movies, World Top Series, then more to discover. Titles that already appeared in a section above are not repeated.
+- **Button rules.** Adding a title to *Watchlist* turns off *Watched* and *Loved*, and those two stay locked until you remove it from the Watchlist. *Watched* and *Loved* can be on together. They also work from the small buttons on posters.
+- **Back button.** Back now returns to the exact screen you came from, with your scroll position and search kept. Double taps no longer open a title twice.
+
+### Fixed
+- **Old OTT and theatre lists.** Lists could show only a few titles or stay out of date. They now fill with the full release list and refresh daily.
+
+---
+
 ## v1.7.1: New logo and fresher releases
 **A new logo, a rebuilt About page, name editing in Profile, and a fix that keeps the home lists up to date**
 
