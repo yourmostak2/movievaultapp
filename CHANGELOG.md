@@ -4,6 +4,23 @@ Movie Vault is a free Android app for tracking the movies and web series you wan
 
 ---
 
+## v1.7.3: Update inside the app
+**New versions now download and install right inside Movie Vault, with no browser and no GitHub page**
+
+### New
+- **Update popup.** When a new version is out, a popup opens as soon as you open the app. It shows what's new, with two buttons: *Download* and *Later*.
+- **Download and install in the app.** Tap *Download*, watch the progress bar, then tap *Install* in the Android installer. The first time, Android asks you to allow installs from Movie Vault. Allow it once and come back to the app.
+- **Safe by design.** The app checks that the downloaded file is a real Movie Vault update before it opens the installer. Your lists stay safe.
+
+### Improved
+- **Later means later.** If you tap *Later*, the popup stays away for 12 hours for that version.
+- **Check for updates page** now has a *Download and install* button that works the same way.
+
+### Good to know
+- To get in-app updates, install this version once by hand, like before. Every update after it installs inside the app.
+
+---
+
 ## v1.7.2: India-first Home, OTT platform lists and coloured buttons
 **Home is rebuilt for Indian viewers, with a search bar, every streaming platform in its own list, and clearer Watch, Watched and Loved buttons**
 
@@ -11,6 +28,7 @@ Movie Vault is a free Android app for tracking the movies and web series you wan
 - **Search bar on Home.** Search movies and series right from the top of the Home page.
 - **New on OTT, by platform.** Netflix, Prime Video, JioHotstar, Zee5, Sony LIV and more each get their own list, with a platform tag on every poster and chips to filter by platform.
 - **In Theaters feed.** Movies now playing in your country, refreshed every day.
+- **Update inside the app.** When a new version is out, a pop-up appears as you open the app, with *Download* and *Later*. Tap *Download* and the update downloads and installs right in the app, with no browser or GitHub page. Android asks for permission once the first time.
 - **Coloured buttons.** *Watchlist* is blue, *Watched* is green and *Loved* is red. When a button is off it stays neutral.
 
 ### Improved
