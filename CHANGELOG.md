@@ -4,6 +4,22 @@ Movie Vault is a free Android app for tracking the movies and web series you wan
 
 ---
 
+## v1.7.4: Coming Soon, Universes and release alerts
+**See what is releasing next, browse whole film universes, and get told when new titles arrive**
+
+### New
+- **Coming Soon.** A new row on Home and a full page show movies and series releasing this month and next, with the exact date. Filter by *Theaters*, *OTT* or *Series*, and tap the play button to watch the trailer.
+- **Universes.** A new *Universes* tab at the top of Home lists film universes and franchises: MCU, DC, Star Wars, Harry Potter, James Bond, Fast and Furious, YRF Spy Universe, Rohit Shetty Cop Universe, Lokesh Cinematic Universe, KGF and Salaar, Baahubali, Pushpa and more, plus Dhallywood. Open one to see every film in release order or newest first, with upcoming films at the end.
+- **Release alerts.** In *Settings → Notifications*, switch on *Cinema releases* and *OTT releases* to get a notification when a new title arrives. The app checks a few times a day, even when it is closed.
+- **More titles and posters.** Movie Vault now also uses OMDb. Search shows extra results marked *OMDb*, and missing posters are filled in.
+
+### Improved
+- **Watched is split in two.** Your watched titles now show in separate *Movies* and *TV Series* sections.
+- **Faster login and sign up.** The app no longer waits long for the online account on a slow network, and the button shows *Please wait...* so you know it is working.
+- **Safer app.** The app code is protected, only secure HTTPS connections are used, and it checks that it is the genuine app when it opens. On rooted phones and emulators you now see a safety notice once a week. Nothing is blocked.
+
+---
+
 ## v1.7.3: Update inside the app
 **New versions now download and install right inside Movie Vault, with no browser and no GitHub page**
 
