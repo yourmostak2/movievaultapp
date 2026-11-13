@@ -4,6 +4,23 @@ Movie Vault is a free Android app for tracking the movies and web series you wan
 
 ---
 
+## v1.7.5: Calendar, Coming Soon shortcut, live refresh and worldwide streaming
+**Plan your movie nights, find where to watch in any country, and see new titles as they arrive**
+
+### New
+- **Add releases to your calendar.** Tap the calendar button on a Coming Soon title to add its release date to your phone calendar.
+- **Coming Soon shortcut.** A Coming Soon chip now sits in the Home top bar, next to Popular.
+- **Live refresh.** While the app is open, new titles from TMDB appear automatically within about 15 seconds, without you pulling to refresh.
+- **Where to watch, worldwide.** Titles now show availability in every country, not only Bangladesh. You can see:
+  - **In theaters**, with the country and date it started.
+  - **Streaming, free, rent and buy** options from each provider, shown with its name, plus a link to all options.
+- **App updates notification.** In *Settings → Notifications*, a new *App updates* switch tells you when a newer version is out. It checks every 6 hours.
+
+### Changed
+- **Updates open the download page.** Tap *Open in browser* in the update popup. The new APK downloads in your browser, and you install it from your Downloads folder. This replaces the in-app installer.
+
+---
+
 ## v1.7.4: Coming Soon, Universes and release alerts
 **See what is releasing next, browse whole film universes, and get told when new titles arrive**
 

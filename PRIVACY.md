@@ -1,32 +1,36 @@
-# Privacy Policy
-Last updated: October 22, 2026
+# Privacy Policy: Movie Vault
 
-Movie Vault ("the app") is a personal movie and web series tracker. This policy explains what information the app uses and why. We do not sell your information, show ads, or share it for advertising.
+Last updated: 2026-11-13
 
-## Information stored on your phone
-Your lists (watchlist, watched, favorites, episode progress), settings, language and theme are stored on your device.
+Movie Vault is a free app to track movies and web series. This page explains what data the app uses.
 
-## Optional account
-If you create an account, the app stores your email address, display name and a backup copy of your lists using Google Firebase (Authentication and Firestore). This is used only so you can sign in on another phone and restore your lists. Only you can read your own data. You can delete your account and this online data at any time from Profile or Settings, using "Delete account".
+## What stays on your phone
+- Your watchlist, watched list and favourites are stored on your device.
+- Settings such as theme and notification choices are stored on your device.
 
-## Google Drive backup (optional)
-If you tap "Sign in with Google", the app asks for permission to use a hidden application data folder in your Google Drive (scope: drive.appdata), and your email address to show which account is connected. The app stores one small backup file of your lists in that folder. The app cannot see any other file in your Drive. The backup is used only to restore your lists. To remove it, sign out of Google in the app, then remove Movie Vault under your Google Account's third-party access page, and delete the app's hidden data there.
+## What is sent when you sign in
+- If you create an account or sign in, your lists are backed up to your account so you can restore them on another phone.
+- We store only your name, email and the backup data you choose to save.
+- You can delete your account and backup from the app.
 
-Movie Vault's use of information received from Google APIs adheres to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
+## Anonymous usage
+- The app sends a small usage ping, with an anonymous account ID, app version and date. This is used only to count daily and monthly active users.
 
-## Movie information
-Movie and series details, posters and release information come from TMDB. When you browse, requests for that data are sent to TMDB. This product uses the TMDB API but is not endorsed or certified by TMDB. Your lists are not sent to TMDB.
+## Movie data and third parties
+- Movie information comes from The Movie Database (TMDB) and OMDb, through our server. The app does not send your personal data to them.
+- Streaming availability comes from JustWatch, via TMDB.
+- Sign-in and backup use Google Firebase.
 
-## App updates
-The app may check GitHub for new releases. No personal information is sent.
+## What we do not do
+- We do not sell your data.
+- We do not show ads.
+- We do not track you across other apps or websites.
+
+## Notifications
+- Notifications are optional. You can turn each one off in Settings.
 
 ## Children
-The app is not directed to children under 13.
-
-## Changes
-If this policy changes, the new version will be posted here with a new date.
+- Movie Vault is not directed at children under 13.
 
 ## Contact
-Questions or deletion requests: contact the developer through [github.com/yourmostak2](https://github.com/yourmostak2).
-
-[Back to Movie Vault](https://movievaultapp.blogspot.com/?m=0)
+- Questions or requests: open an issue at https://github.com/yourmostak2/movievaultapp/issues

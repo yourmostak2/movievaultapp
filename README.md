@@ -1,127 +1,128 @@
-<p align="center">
-  <img src="icon.png" width="120" alt="Movie Vault logo">
-</p>
+<h1 align="center">🎬 Movie Vault</h1>
 
-<h1 align="center">Movie Vault</h1>
+<p align="center"><b>Discover movies and web series, track what you've watched, and find where to stream them legally.</b></p>
 
-<p align="center">
-  A personal tracker for movies and web series. Keep your watchlist, mark what you have watched, follow every episode, and never miss a new release.
-</p>
+<p align="center">No ads. No tracking. Works on any Android phone.</p>
 
 <p align="center">
-  <a href="https://github.com/yourmostak2/movievaultapp/releases/latest"><img src="https://img.shields.io/github/v/release/yourmostak2/movievaultapp?style=for-the-badge&label=latest" alt="Latest release"></a>
-  <a href="https://github.com/yourmostak2/movievaultapp/releases"><img src="https://img.shields.io/github/downloads/yourmostak2/movievaultapp/total?style=for-the-badge&label=downloads" alt="Downloads"></a>
+  <a href="https://github.com/yourmostak2/movievaultapp/releases"><img src="https://img.shields.io/github/downloads/yourmostak2/movievaultapp/total?style=for-the-badge&logo=github&label=DOWNLOADS&color=4CAF50" alt="Downloads"></a>
+  <a href="https://github.com/yourmostak2/movievaultapp/releases/latest"><img src="https://img.shields.io/github/v/release/yourmostak2/movievaultapp?style=for-the-badge&logo=github&label=LATEST&color=2196F3" alt="Latest release"></a>
+  <a href="https://t.me/movievaultupdate"><img src="https://img.shields.io/badge/Telegram-Updates-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourmostak2/movievaultapp/releases/latest/download/MovieVault.apk"><b>⬇️ Download the APK</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://movievaultapp.blogspot.com/?m=0">Website</a>
-  &nbsp;·&nbsp;
-  <a href="PRIVACY.md">Privacy Policy</a>
-  &nbsp;·&nbsp;
-  <a href="CHANGELOG.md">Changelog</a>
+  <img src="https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 8+">
+  <img src="https://img.shields.io/badge/Capacitor-6-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor">
+  <img src="https://img.shields.io/badge/TMDB-API-01B4E4?style=for-the-badge" alt="TMDB">
+  <img src="https://img.shields.io/badge/Firebase-Auth%20%2B%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
+</p>
+
+<p align="center">
+  <a href="#-download">Download</a> •
+  <a href="#-features">Features</a> •
+  <a href="#-screenshots">Screenshots</a> •
+  <a href="#-how-it-works">How it works</a> •
+  <a href="#-build-from-source">Build</a> •
+  <a href="#-privacy">Privacy</a> •
+  <a href="#-credits">Credits</a>
 </p>
 
 ---
 
-## What is Movie Vault?
+## ✨ Features
 
-Movie Vault is a free Android app that puts everything you watch in one place. Search any movie or series, save it to a list, tick off episodes as you go, and see what just landed in theaters or on streaming. Your lists follow you to a new phone through your account or your own Google Drive.
+| | |
+|---|---|
+| 🔥 **Discover** | Trending, popular, top rated, In Theaters and Coming Soon |
+| 🇮🇳 **Indian-first Home** | Bollywood, Tollywood, Kollywood, Mollywood, Sandalwood, Dhallywood and more. World titles too |
+| 📺 **Where to Watch** | Streaming, free, rent and buy options in your country, with the provider name (JustWatch data) |
+| ✅ **Your lists** | Watchlist, Watched and Favourite, with Movies and Series sections |
+| 📅 **Calendar** | Add upcoming releases to your phone calendar |
+| 🎞️ **Details** | Synopsis, cast, director, trailer, ratings, runtime |
+| 🔎 **Search** | Movies, series and actors |
+| ☁️ **Backup** | Sign in and back up your lists to your account |
+| 🔔 **Alerts** | Optional notifications: cinema releases, OTT releases, app updates |
+| 🌗 **Themes** | Light and dark |
 
-It covers **Hollywood, Bollywood, Tollywood and Dhallywood**, and works in **9 languages**.
+---
 
-## Features
+## 📸 Screenshots
 
-### Your lists
-- **Watchlist, Watched and Favorites** for movies and web series
-- **Season and episode tracking.** See exactly how many episodes you have watched
-- **Glass pill buttons** on every movie page: Add to watch, Watched and Love it
-- **Where to watch** opens with one tap, based on your country
+<p align="center">
+  <img src="screenshots/home.png" width="180" alt="Home">
+  <img src="screenshots/details.png" width="180" alt="Details">
+  <img src="screenshots/watched.png" width="180" alt="Watched">
+  <img src="screenshots/settings.png" width="180" alt="Settings">
+</p>
 
-### Discover
-- **Home page** with today's charts, new releases and a Top 10
-- **In Theaters** and **New on OTT** categories, with the newest titles first
-- **Details pages** with a blurred poster background, rating, director, cast, genres and where to watch
-- **Cast pages** to browse a person's other work
-- **Search** across the built-in catalog and the whole TMDB database
+---
 
-### Never lose your lists
-- **Account sync.** Sign in on another phone and everything is there
-- **Google Drive backup.** Stored in a hidden app folder that only Movie Vault can see
-- **Backup with words.** Copy your lists as plain words, keep them in Notes, paste them back to restore
-- **Delete my account** erases your account and your saved data
+## 📥 Download
 
-### Made for everyday use
-- **Liquid Glass design** with frosted glass, soft lights and smooth animations
-- **Light, Dark (true black AMOLED) or System** appearance
-- **Full or Lite glass** effects, so it runs smoothly on every phone
-- **9 languages:** English, Bengali, Hindi, Tamil, Telugu, Urdu, Arabic, Spanish and French
-- **Built-in update checker** with release notes
-- **No ads.** No tracking for advertising
+1. Open the **[latest release](https://github.com/yourmostak2/movievaultapp/releases/latest)**.
+2. Download `MovieVault.apk`.
+3. Open it on your phone. If asked, allow installs from your browser or file manager.
+4. Open Movie Vault. Sign in if you want backup.
 
-## Download
+**Requirements:** Android 8.0 or newer.
 
-> **First time here?**
-> 1. Open the [latest release](https://github.com/yourmostak2/movievaultapp/releases/latest) and download **MovieVault.apk**.
-> 2. Open the file. If your phone asks, allow installs from your browser or file manager (**Settings → Install unknown apps**).
-> 3. Tap **Install**, open Movie Vault, and register or sign in.
+---
 
-Movie Vault needs Android 6.0 or newer and an internet connection to load movie information. Your lists open without a connection.
+## ⚙️ How it works
 
-Once installed, new versions appear inside the app under **Settings → Check for updates**.
+- The app is one web page, wrapped as an Android app with Capacitor.
+- Movie data comes from a Cloudflare Worker, which calls TMDB and OMDb. API keys stay on the server, never in the app.
+- Accounts and backup use Firebase.
 
-## How backups work
+---
 
-| Method | Where it lives | Best for |
-|---|---|---|
-| **Account** | Your Movie Vault account | Automatic, always up to date |
-| **Google Drive** | Hidden app folder in your Drive | A second copy you control |
-| **Words** | Text you keep yourself (Notes, Telegram) | Offline, no account needed |
+## 🔄 Updates
 
-**Google Drive backup:** Open **Settings → Google Drive backup → Sign in with Google**. Google asks whether Movie Vault may use its own hidden folder in your Drive. Tick the Drive permission and continue. After that the app backs up by itself every few hours, and **Restore from backup** brings everything back on a new phone.
+- When a new version is out, the app shows an update popup.
+- Tap **Open in browser** to download the new APK from the releases page.
+- Install it over the old version. Your data stays.
 
-## FAQ
+Follow [@movievaultupdate](https://t.me/movievaultupdate) for release news.
 
-### Q: Is Movie Vault free?
-Yes. It is free, has no ads and no in-app purchases.
+---
 
-### Q: Do I need an account?
-You create a simple account to open the app. The account is also what keeps your lists safe if you change phones.
+## 🛠️ Build from source
 
-### Q: Where is my data stored?
-Your lists are stored on your phone and, if you are signed in, in your own account. Google Drive backups live in a hidden folder in your Drive that only this app can open. Nothing is sold or used for ads. Read the [Privacy Policy](PRIVACY.md) for details.
+1. Clone this repository.
+2. Add your own TMDB and OMDb keys to the Cloudflare Worker secrets.
+3. Push to `main`. GitHub Actions builds the APK.
 
-### Q: Google says "Google hasn't verified this app". Is it safe?
-Movie Vault only asks for access to its own hidden app folder and your email address. Google shows the warning for every new app that has not completed full review. Tap **Advanced → Go to Movie Vault** to continue.
+See [CHANGELOG.md](CHANGELOG.md) for version history.
 
-### Q: The app will not install. It says "package conflicts".
-You have an older test build with a different signature. Uninstall it once, then install the latest version. Your lists come back when you sign in or restore a backup. After that, every update installs over your current app.
+---
 
-### Q: Google Play Protect says "App scan recommended".
-This is a normal message for new apps that Google has not seen before. Tap **Scan app** (or **Install without scanning**) and continue. Movie Vault contains no ads or trackers and only asks for the permissions it needs.
+## 🔐 Privacy
 
-### Q: How do I update?
-Open **Settings → Check for updates**. If a newer version exists you will see the release notes and a Download button.
+- Your lists stay on your phone. Signed-in users back them up to their account.
+- No ads. No selling of data.
+- Anonymous usage counts only.
+- Full details: [PRIVACY.md](PRIVACY.md).
 
-### Q: Can I delete my data?
-Yes. **Profile → Delete account** removes your account and saved lists. To remove a Drive backup, sign out of Google in the app and remove Movie Vault from your Google Account's third-party access page.
+---
 
-### Q: I found a bug or have an idea.
-Please [open an issue](https://github.com/yourmostak2/movievaultapp/issues). Tell us your phone model and what happened.
+## ⚖️ Content & copyright
 
-## Contributing and license
+Movie Vault does **not** host, store or stream any movies or series. Movie data, posters and streaming availability come from third-party services. Streaming links go only to official services or to content the owner has made available.
 
-Bug reports, ideas and translations are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) to get started. Movie Vault is released under the [MIT License](LICENSE).
+To report a problem with any content, open an [issue](https://github.com/yourmostak2/movievaultapp/issues). It will be reviewed and removed promptly if it infringes.
 
-## Credits
+---
 
-- Movie and series information and images are provided by [TMDB](https://www.themoviedb.org/).
+## 🙏 Credits
+
+- Movie and TV data: [The Movie Database (TMDB)](https://www.themoviedb.org/). This product uses the TMDB API but is not endorsed or certified by TMDB.
+- Streaming availability: [JustWatch](https://www.justwatch.com/), via TMDB.
+- Ratings: [OMDb API](https://www.omdbapi.com/).
 - Built with [Capacitor](https://capacitorjs.com/).
-- Accounts use Google Firebase. Backups use the Google Drive API.
-- Made by [yourmostak2](https://github.com/yourmostak2).
 
-## Disclaimer
+---
 
-*This product uses the TMDB API but is not endorsed or certified by TMDB.*
-Movie Vault is an independent project and is not affiliated with any streaming service, studio or film database. Ratings and availability come from public sources and can differ from the official ones.
+## 📜 License
+
+Released under the [MIT License](LICENSE).
