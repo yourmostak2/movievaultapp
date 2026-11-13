@@ -50,10 +50,10 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="180" alt="Home">
-  <img src="screenshots/details.png" width="180" alt="Details">
-  <img src="screenshots/watched.png" width="180" alt="Watched">
-  <img src="screenshots/settings.png" width="180" alt="Settings">
+  <img src="docs/home.png" width="180" alt="Home">
+  <img src="docs/details.png" width="180" alt="Details">
+  <img src="docs/watched.png" width="180" alt="Watched">
+  <img src="docs/settings.png" width="180" alt="Settings">
 </p>
 
 ---
